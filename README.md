@@ -7,8 +7,8 @@ This project is a REST API for performing basic mathematical operations (additio
 
 **Clone the repository**:
    ```bash
-   git clone <https://github.com/Naildif/calculator-challange>
-   cd <calculator-challange>
+   git clone https://github.com/Naildif/calculator-challange
+   cd calculator-challange
    ```
 
 Set up environment variables: Create a .env file in the project root with the following variables:
@@ -24,7 +24,7 @@ DB_PASSWORD=db_password
 Build the project: Ensure Maven is installed and run:
 
 ```bash
-mvn clean install
+mvn clean install -DskipTests
 ```
 
 Run the application:
