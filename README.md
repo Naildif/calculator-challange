@@ -7,8 +7,8 @@ This project is a REST API for performing basic mathematical operations (additio
 
 **Clone the repository**:
    ```bash
-   git clone <REPOSITORY_URL>
-   cd <PROJECT_NAME>
+   git clone <https://github.com/Naildif/calculator-challange>
+   cd <calculator-challange>
    ```
 
 Set up environment variables: Create a .env file in the project root with the following variables:
